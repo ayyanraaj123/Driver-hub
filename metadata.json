@@ -1,0 +1,8 @@
+{
+  "name": "SALMAN DRIVER BASE",
+  "description": "Trusted Private Car, Family, Office, Company, and Full-Time Driver Service & Driver Registration Portal in Karachi, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
